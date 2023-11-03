@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is "yibajianghudao," but most of the time you can call me "JiangHuDao," it's shorter.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=000000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=500&height=80&lines=My+name+is+%22yibajianghudao%22;but+most+of+the+time+you+can+call+me;%22JiangHuDao%2C%22+it's+shorter.)](https://git.io/typing-svg)
 - 🔭 I'm currently working on GreatMingWeb,The website of a gaming team I'm a part of.
 - 🌱 I’m currently learning new programming skills, some algorithms, or... Java :)
 - 👯 I’m looking to collaborate on Some interesting projects.
