@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is "yibajianghudao," but most of the time you can call me "JiangHuDao," it's shorter.  
-- 🔭 I'm currently working on GreatMingWeb,The website of a gaming team I'm a part of.
-- 🌱 I’m currently learning new programming skills, some algorithms, or... Java :)
+- 🔭 I'm currently working on GreatMing,The website of a gaming team I'm a part of.
+- 🌱 I’m currently learning Java:)
 - 👯 I’m looking to collaborate on Some interesting projects.
 - 🤔 I’m looking for help with I don't have work.
 - 💬 Ask me about anything you'd like to know.
